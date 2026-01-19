@@ -1,18 +1,14 @@
 <!--
 👽 Security Researcher Profile
-If you're reading the source, you belong here.
+Minimal. Technical. Intentional.
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Security%20Researcher&fontSize=42&fontColor=00ff9c" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Security+Researcher;Web+Application+Security;Breaking+Systems+to+Secure+Them;Hack+Responsibly" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Breaking+systems+to+secure+them;Web+Security+Researcher;Vulnerability+Analysis+%26+Tooling;Hack+Responsibly" />
-</p>
-
-<p align="center">
-  <code>web</code> • <code>security</code> • <code>research</code> • <code>tools</code>
+  <code>web</code> • <code>security</code> • <code>research</code> • <code>tooling</code>
 </p>
 
 ---
@@ -34,7 +30,7 @@ Educate responsibly.
 
 ---
 
-## ✍️ Security Research & Articles
+## ✍️ Security Research & Writing
 
 I publish real-world security research, vulnerability analysis,
 and technical write-ups at:
@@ -44,6 +40,13 @@ and technical write-ups at:
     <img src="https://img.shields.io/badge/SitesDown-Research%20%26%20Articles-00ff9c?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
+
+Topics include:
+- Web application vulnerabilities
+- Misconfigurations & exposed services
+- Attack surface analysis
+- Practical exploitation concepts
+- Defensive security insights
 
 ---
 
