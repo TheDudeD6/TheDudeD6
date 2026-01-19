@@ -45,12 +45,6 @@ and technical write-ups at:
   </a>
 </p>
 
-### 📰 Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- Auto-updated via GitHub Actions
-- Pulls latest posts from https://sitesdown.net/
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## 🛠️ Security Tools Platform
