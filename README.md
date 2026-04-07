@@ -6,23 +6,4 @@
     </td>
     <td>
 
-<strong style="font-size: 45px;">Rҽʂҽαɾƈԋҽɾ</strong>  
-- 👾 Exploit Developer <br>
-- 🦀 Mass Audience <br>
-- 🐃 R4ρƚ0R Gαɳɠ <br>
-- 🎮 Gamer <br>
-- 💻 Security Research <br>
-- 🏴 UnAuthenticated <br>
-- 🚩 CTF Player <br>
-- 🏴‍☠️ #HackHackHack <br>
-    </td>
-  </tr>
-</table>
-
-Hello Earth!
-I go by many names, for now you can call me {$PROFILE} and I write software and break things just to fix it. My skills range from Web, Reverse Engineering, Forensics, Networking, Automation, Development, Crypto, AI, and Data {$ALLOFIT}.
-
-Lately, I’ve been exploring mass exploitation from a theoretical perspective. 
-
-"My other computer is YOUR computer" 
 "The quieter you are, the more you are able to hear"
